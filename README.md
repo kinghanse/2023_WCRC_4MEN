@@ -13,4 +13,12 @@
 
 # Why ?
 
-# Summary 
+![Screenshot from 2023-12-21 21-38-36](https://github.com/kinghanse/2023_WCRC_4MEN/assets/140477572/dc6c45d5-6f81-4cea-9b53-b312424b60a4)
+
+# Summary
+
+![Screenshot from 2023-12-21 21-37-38](https://github.com/kinghanse/2023_WCRC_4MEN/assets/140477572/3f626de0-76ad-407f-9653-b0d75e0b0745)
+
+![Screenshot from 2023-12-21 21-37-47](https://github.com/kinghanse/2023_WCRC_4MEN/assets/140477572/d2985ab2-c10a-49b2-a826-b5dea103c0a8)
+
+![Screenshot from 2023-12-21 21-37-50](https://github.com/kinghanse/2023_WCRC_4MEN/assets/140477572/f493ee7b-bea0-42a1-91fc-22c3ab3c998a)
