@@ -1,0 +1,28 @@
+section#event 
+h1 Event Report List
+if events.data
+  each event in events.data
+    div#event-box
+      p -------------------------------------------------------------------------
+      p id: #{event.id}
+      p category: #{event.category}
+      p created time: #{event.createdTime}
+      p updated time: #{event.updatedTime}
+      p point: (#{event.x}, #{event.y})
+      if event.processFlag === 1
+        p processFlag: Waiting
+      else if event.processFlag === 2
+        p processFlag: InProgress
+      else if event.processFlag === 3
+        p prcessFlag: Completed
+      else if event.processFlag === 4
+        p prcessFlag: OnHold
+      else if event.processFlag === 5
+        p processFlag: To Be Verified
+      else
+        p processFlag: unknown process flag
+  if events.metaData.total > 1
+    ul.pagination
+      each page in Array.from(Array(events.metaData.total).keys()).map(i => i + 1)
+        li
+          a(href=`/actionable-tasks?page=${page}`)= page
