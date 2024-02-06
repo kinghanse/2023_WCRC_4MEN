@@ -1,0 +1,38 @@
+section#tasks 
+h1 Actionable Task List
+if tasks.data
+  each task in tasks.data
+    div#task-box
+      p -------------------------------------------------------------------------
+      p id: #{task.id}
+      p category: #{task.category}
+      p count: #{task.eventCnt}
+      p created time: #{task.createdTime}
+      p updated time: #{task.updatedTime}
+      p point: (#{task.avgPointX}, #{task.avgPointY})
+      form(action=`/actionable-tasks/${task.id}/process-flag`, method="POST")
+        label(for="processFlag") Select Process Flag:
+        select(name="processFlag" id="processFlag")
+          option(value="1", selected=task.processFlag === 1) Waiting
+          option(value="2", selected=task.processFlag === 2) InProgress
+          option(value="3", selected=task.processFlag === 3) Completed
+          option(value="4", selected=task.processFlag === 4) OnHold
+          option(value="5", selected=task.processFlag === 5) To Be Verified
+        button(type="submit") Update Process Flag
+      button(type="moveDetailsButton" class="showDetailsButton" data-task-id=task.id) show details
+
+  if tasks.metaData.total > 1
+    ul.pagination
+      each page in Array.from(Array(tasks.metaData.total).keys()).map(i => i + 1)
+        li
+          a(href=`/actionable-tasks?page=${page}`)= page
+
+
+script.
+  const showDetailsButtons = document.querySelectorAll('.showDetailsButton');
+  showDetailsButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      const taskId = button.getAttribute('data-task-id');
+      location.href = `/actionable-tasks/${taskId}/details`
+    });
+  });
