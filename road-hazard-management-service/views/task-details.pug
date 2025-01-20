@@ -1,0 +1,53 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title Task ##{payload.id} Details
+  body 
+    include header 
+    h1 Task ##{payload.id} Details
+
+      div
+       
+        p id: #{payload.id}
+        p category: #{payload.category}
+        p count: #{payload.eventCnt}
+        p created time: #{payload.createdTime}
+        p updated time: #{payload.updatedTime}
+        p point: (#{payload.avgPointX}, #{payload.avgPointY})
+        form(action=`/actionable-tasks/${payload.id}/process-flag`, method="POST")
+          label(for="processFlag") Process Flag:
+          select(name="processFlag" id="processFlag")
+            option(value="1", selected=payload.processFlag === 1) Waiting
+            option(value="2", selected=payload.processFlag === 2) InProgress
+            option(value="3", selected=payload.processFlag === 3) Completed
+            option(value="4", selected=payload.processFlag === 4) OnHold
+            option(value="5", selected=payload.processFlag === 5) To Be Verified
+          button(type="submit") Update Process Flag
+
+    h2 Event Reports
+      div
+        if payload.eventToTasks
+          each event in payload.eventToTasks
+            div
+              p ------------------------------------------------------------------------- 
+              p id: #{event.eventReport.id}
+              p category: #{event.eventReport.category}
+              p created time: #{event.eventReport.createdTime}
+              p updated time: #{event.eventReport.updatedTime}
+              p point: (#{event.eventReport.x}, #{event.eventReport.y})
+              if event.eventReport.processFlag === 1
+                p processFlag: Waiting
+              else if event.eventReport.processFlag === 2
+                p processFlag: InProgress
+              else if event.eventReport.processFlag === 3
+                p prcessFlag: Completed
+              else if event.eventReport.processFlag === 4
+                p prcessFlag: OnHold
+              else if event.eventReport.processFlag === 5
+                p processFlag: To Be Verified
+              else
+                p processFlag: unknown process flag
+              p image name: #{event.eventReport.imageName}
+              img(src=`/event-images/${event.eventReport.imageName}`, alt='event image')
