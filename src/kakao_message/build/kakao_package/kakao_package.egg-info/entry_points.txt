@@ -1,0 +1,3 @@
+[console_scripts]
+kakao_pub = kakao_package.kakao_pub:main
+kakao_sub = kakao_package.kakao_sub:main

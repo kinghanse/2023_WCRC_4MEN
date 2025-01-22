@@ -1,0 +1,20 @@
+[0.036s] Invoking command in '/home/men/dev_ws/YOLO/yolov7/yolov72/build/cv_bridge': /home/men/.local/bin/cmake /home/men/dev_ws/YOLO/yolov7/yolov72/cvbridge_ws/src/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/men/dev_ws/YOLO/yolov7/yolov72/install/cv_bridge
+[0.079s] [31mCMake Error at CMakeLists.txt:4 (find_package):
+[0.079s]   By not providing "Findament_cmake_ros.cmake" in CMAKE_MODULE_PATH this
+[0.079s]   project has asked CMake to find a package configuration file provided by
+[0.079s]   "ament_cmake_ros", but CMake did not find one.
+[0.079s] 
+[0.079s]   Could not find a package configuration file provided by "ament_cmake_ros"
+[0.079s]   with any of the following names:
+[0.079s] 
+[0.079s]     ament_cmake_rosConfig.cmake
+[0.079s]     ament_cmake_ros-config.cmake
+[0.079s] 
+[0.079s]   Add the installation prefix of "ament_cmake_ros" to CMAKE_PREFIX_PATH or
+[0.079s]   set "ament_cmake_ros_DIR" to a directory containing one of the above files.
+[0.079s]   If "ament_cmake_ros" provides a separate development package or SDK, be
+[0.079s]   sure it has been installed.
+[0.079s] 
+[0.079s] [0m
+[0.079s] -- Configuring incomplete, errors occurred!
+[0.085s] Invoked command in '/home/men/dev_ws/YOLO/yolov7/yolov72/build/cv_bridge' returned '1': /home/men/.local/bin/cmake /home/men/dev_ws/YOLO/yolov7/yolov72/cvbridge_ws/src/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/men/dev_ws/YOLO/yolov7/yolov72/install/cv_bridge

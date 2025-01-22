@@ -1,0 +1,32 @@
+[0.038s] Invoking command in '/home/men/dev_ws/YOLO/yolov7/yolov72/build/cv_bridge': /home/men/.local/bin/cmake /home/men/dev_ws/YOLO/yolov7/yolov72/cvbridge_ws/src/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/men/dev_ws/YOLO/yolov7/yolov72/install/cv_bridge
+[0.162s] -- The C compiler identification is GNU 11.4.0
+[0.227s] -- The CXX compiler identification is GNU 11.4.0
+[0.243s] -- Detecting C compiler ABI info
+[0.284s] -- Detecting C compiler ABI info - done
+[0.295s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.295s] -- Detecting C compile features
+[0.295s] -- Detecting C compile features - done
+[0.301s] -- Detecting CXX compiler ABI info
+[0.344s] -- Detecting CXX compiler ABI info - done
+[0.356s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.356s] -- Detecting CXX compile features
+[0.357s] -- Detecting CXX compile features - done
+[0.365s] [31mCMake Error at CMakeLists.txt:4 (find_package):
+[0.365s]   By not providing "Findament_cmake_ros.cmake" in CMAKE_MODULE_PATH this
+[0.365s]   project has asked CMake to find a package configuration file provided by
+[0.365s]   "ament_cmake_ros", but CMake did not find one.
+[0.365s] 
+[0.365s]   Could not find a package configuration file provided by "ament_cmake_ros"
+[0.365s]   with any of the following names:
+[0.365s] 
+[0.365s]     ament_cmake_rosConfig.cmake
+[0.365s]     ament_cmake_ros-config.cmake
+[0.365s] 
+[0.365s]   Add the installation prefix of "ament_cmake_ros" to CMAKE_PREFIX_PATH or
+[0.365s]   set "ament_cmake_ros_DIR" to a directory containing one of the above files.
+[0.365s]   If "ament_cmake_ros" provides a separate development package or SDK, be
+[0.365s]   sure it has been installed.
+[0.365s] 
+[0.365s] [0m
+[0.365s] -- Configuring incomplete, errors occurred!
+[0.374s] Invoked command in '/home/men/dev_ws/YOLO/yolov7/yolov72/build/cv_bridge' returned '1': /home/men/.local/bin/cmake /home/men/dev_ws/YOLO/yolov7/yolov72/cvbridge_ws/src/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/men/dev_ws/YOLO/yolov7/yolov72/install/cv_bridge

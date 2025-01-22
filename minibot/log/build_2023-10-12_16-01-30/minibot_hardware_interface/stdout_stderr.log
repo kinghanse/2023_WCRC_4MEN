@@ -1,0 +1,31 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/minibot_hardware_interface.dir/src/minibot_system.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library libminibot_hardware_interface.so[0m
+[100%] Built target minibot_hardware_interface
+-- Install configuration: ""
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/minibot_hardware.xml
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/lib/libminibot_hardware_interface.so
+-- Set runtime path of "/home/hanse/pinkbot/install/minibot_hardware_interface/lib/libminibot_hardware_interface.so" to ""
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/include
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/include/minibot_hardware_interface
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/include/minibot_hardware_interface/minibot_system.hpp
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/library_path.sh
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/library_path.dsv
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/package_run_dependencies/minibot_hardware_interface
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/parent_prefix_path/minibot_hardware_interface
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/ament_prefix_path.sh
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/ament_prefix_path.dsv
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/path.sh
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/path.dsv
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.bash
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.sh
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.zsh
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.dsv
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/package.dsv
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/packages/minibot_hardware_interface
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/minibot_hardware_interface
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/minibot_hardware_interfaceConfig.cmake
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/minibot_hardware_interfaceConfig-version.cmake
+-- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/package.xml

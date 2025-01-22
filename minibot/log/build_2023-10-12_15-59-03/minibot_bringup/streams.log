@@ -1,0 +1,26 @@
+[0.089s] Invoking command in '/home/hanse/pinkbot/build/minibot_bringup': AMENT_PREFIX_PATH=/home/hanse/pinkbot/install/minibot_gazebo:/home/hanse/pinkbot/install/minibot_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/hanse/pinkbot/install/minibot_gazebo:/home/hanse/pinkbot/install/minibot_description:/opt/ros/humble /usr/bin/cmake /home/hanse/pinkbot/src/pinklab_minibot_robot/minibot_bringup -DCMAKE_INSTALL_PREFIX=/home/hanse/pinkbot/install/minibot_bringup
+[0.153s] -- The C compiler identification is GNU 11.4.0
+[0.218s] -- The CXX compiler identification is GNU 11.4.0
+[0.225s] -- Detecting C compiler ABI info
+[0.293s] -- Detecting C compiler ABI info - done
+[0.302s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.302s] -- Detecting C compile features
+[0.303s] -- Detecting C compile features - done
+[0.306s] -- Detecting CXX compiler ABI info
+[0.391s] -- Detecting CXX compiler ABI info - done
+[0.400s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.400s] -- Detecting CXX compile features
+[0.401s] -- Detecting CXX compile features - done
+[0.403s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.635s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.748s] -- Found minibot_gazebo: 0.0.0 (/home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/cmake)
+[0.748s] -- Found minibot_description: 0.0.0 (/home/hanse/pinkbot/install/minibot_description/share/minibot_description/cmake)
+[0.750s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.845s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.847s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.849s] -- Added test 'lint_cmake' to check CMake code style
+[0.850s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.851s] -- Added test 'xmllint' to check XML markup files
+[0.852s] -- Configuring done
+[0.855s] -- Generating done
+[0.856s] -- Build files have been written to: /home/hanse/pinkbot/build/minibot_bringup

@@ -1,0 +1,35 @@
+[0.084s] Invoking command in '/home/hanse/pinkbot/build/minibot_hardware_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hanse/pinkbot/build/minibot_hardware_interface -- -j8 -l8
+[0.122s] [ 50%] [32mBuilding CXX object CMakeFiles/minibot_hardware_interface.dir/src/minibot_system.cpp.o[0m
+[2.663s] [100%] [32m[1mLinking CXX shared library libminibot_hardware_interface.so[0m
+[2.781s] [100%] Built target minibot_hardware_interface
+[2.790s] Invoked command in '/home/hanse/pinkbot/build/minibot_hardware_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hanse/pinkbot/build/minibot_hardware_interface -- -j8 -l8
+[2.808s] Invoking command in '/home/hanse/pinkbot/build/minibot_hardware_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hanse/pinkbot/build/minibot_hardware_interface
+[2.813s] -- Install configuration: ""
+[2.813s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/minibot_hardware.xml
+[2.813s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/lib/libminibot_hardware_interface.so
+[2.814s] -- Set runtime path of "/home/hanse/pinkbot/install/minibot_hardware_interface/lib/libminibot_hardware_interface.so" to ""
+[2.814s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/include
+[2.814s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/include/minibot_hardware_interface
+[2.814s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/include/minibot_hardware_interface/minibot_system.hpp
+[2.814s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/library_path.sh
+[2.814s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/library_path.dsv
+[2.814s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/package_run_dependencies/minibot_hardware_interface
+[2.814s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/parent_prefix_path/minibot_hardware_interface
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/ament_prefix_path.sh
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/ament_prefix_path.dsv
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/path.sh
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/environment/path.dsv
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.bash
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.sh
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.zsh
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/local_setup.dsv
+[2.815s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/package.dsv
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/packages/minibot_hardware_interface
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/minibot_hardware_interface
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.815s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/minibot_hardware_interfaceConfig.cmake
+[2.816s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/cmake/minibot_hardware_interfaceConfig-version.cmake
+[2.816s] -- Installing: /home/hanse/pinkbot/install/minibot_hardware_interface/share/minibot_hardware_interface/package.xml
+[2.817s] Invoked command in '/home/hanse/pinkbot/build/minibot_hardware_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hanse/pinkbot/build/minibot_hardware_interface

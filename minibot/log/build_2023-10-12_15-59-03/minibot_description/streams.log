@@ -1,0 +1,74 @@
+[0.161s] Invoking command in '/home/hanse/pinkbot/build/minibot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hanse/pinkbot/src/pinklab_minibot_robot/minibot_description -DCMAKE_INSTALL_PREFIX=/home/hanse/pinkbot/install/minibot_description
+[0.199s] -- The C compiler identification is GNU 11.4.0
+[0.238s] -- The CXX compiler identification is GNU 11.4.0
+[0.244s] -- Detecting C compiler ABI info
+[0.296s] -- Detecting C compiler ABI info - done
+[0.300s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.301s] -- Detecting C compile features
+[0.301s] -- Detecting C compile features - done
+[0.303s] -- Detecting CXX compiler ABI info
+[0.362s] -- Detecting CXX compiler ABI info - done
+[0.367s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.367s] -- Detecting CXX compile features
+[0.367s] -- Detecting CXX compile features - done
+[0.368s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.499s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.567s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[0.568s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.625s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.627s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.628s] -- Added test 'lint_cmake' to check CMake code style
+[0.628s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.629s] -- Added test 'xmllint' to check XML markup files
+[0.629s] -- Configuring done
+[0.631s] -- Generating done
+[0.632s] -- Build files have been written to: /home/hanse/pinkbot/build/minibot_description
+[0.635s] Invoked command in '/home/hanse/pinkbot/build/minibot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hanse/pinkbot/src/pinklab_minibot_robot/minibot_description -DCMAKE_INSTALL_PREFIX=/home/hanse/pinkbot/install/minibot_description
+[0.637s] Invoking command in '/home/hanse/pinkbot/build/minibot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hanse/pinkbot/build/minibot_description -- -j8 -l8
+[0.664s] Invoked command in '/home/hanse/pinkbot/build/minibot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hanse/pinkbot/build/minibot_description -- -j8 -l8
+[0.687s] Invoking command in '/home/hanse/pinkbot/build/minibot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hanse/pinkbot/build/minibot_description
+[0.693s] -- Install configuration: ""
+[0.693s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/launch
+[0.693s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/launch/upload_robot.launch.py
+[0.693s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/launch/view_robot.launch.py
+[0.693s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes
+[0.693s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/visual
+[0.693s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/ydlidar_x2_assy.dae
+[0.700s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/front_camera.dae
+[0.701s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/wheel.png
+[0.701s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/front_camera.png
+[0.701s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/wheel.dae
+[0.701s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/base_link.dae
+[0.701s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/ydlidar_x2.png
+[0.701s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/visual/ul_sensor.dae
+[0.702s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/collision
+[0.702s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/wheel.stl
+[0.702s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/base_link.stl
+[0.702s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/ul_sensor.stl
+[0.702s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/ydlidar_x2_assy.stl
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/meshes/collision/front_camera.stl
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/rviz
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/rviz/view_robot.rviz
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/urdf
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/urdf/minibot_ros2_control.urdf.xacro
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/urdf/minibot_gazebo.urdf.xacro
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/urdf/common
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/urdf/common/inertia_macro.urdf.xacro
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/urdf/minibot.urdf.xacro
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/urdf/robot.urdf.xacro
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/ament_index/resource_index/package_run_dependencies/minibot_description
+[0.703s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/ament_index/resource_index/parent_prefix_path/minibot_description
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/environment/ament_prefix_path.sh
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/environment/ament_prefix_path.dsv
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/environment/path.sh
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/environment/path.dsv
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/local_setup.bash
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/local_setup.sh
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/local_setup.zsh
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/local_setup.dsv
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/package.dsv
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/ament_index/resource_index/packages/minibot_description
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/cmake/minibot_descriptionConfig.cmake
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/cmake/minibot_descriptionConfig-version.cmake
+[0.704s] -- Installing: /home/hanse/pinkbot/install/minibot_description/share/minibot_description/package.xml
+[0.705s] Invoked command in '/home/hanse/pinkbot/build/minibot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/hanse/pinkbot/build/minibot_description

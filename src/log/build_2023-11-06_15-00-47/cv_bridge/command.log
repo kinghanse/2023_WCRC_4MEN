@@ -1,0 +1,2 @@
+Invoking command in '/home/men/dev_ws/YOLO/yolov7/yolov72/build/cv_bridge': /home/men/.local/bin/cmake /home/men/dev_ws/YOLO/yolov7/yolov72/cvbridge_ws/src/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/men/dev_ws/YOLO/yolov7/yolov72/install/cv_bridge
+Invoked command in '/home/men/dev_ws/YOLO/yolov7/yolov72/build/cv_bridge' returned '1': /home/men/.local/bin/cmake /home/men/dev_ws/YOLO/yolov7/yolov72/cvbridge_ws/src/vision_opencv/cv_bridge -DCMAKE_INSTALL_PREFIX=/home/men/dev_ws/YOLO/yolov7/yolov72/install/cv_bridge

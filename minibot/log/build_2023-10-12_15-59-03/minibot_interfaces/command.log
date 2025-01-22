@@ -1,0 +1,3 @@
+Invoking command in '/home/hanse/pinkbot/build/minibot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hanse/pinkbot/src/pinklab_minibot_robot/minibot_interfaces -DCMAKE_INSTALL_PREFIX=/home/hanse/pinkbot/install/minibot_interfaces
+Invoked command in '/home/hanse/pinkbot/build/minibot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/hanse/pinkbot/src/pinklab_minibot_robot/minibot_interfaces -DCMAKE_INSTALL_PREFIX=/home/hanse/pinkbot/install/minibot_interfaces
+Invoking command in '/home/hanse/pinkbot/build/minibot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/hanse/pinkbot/build/minibot_interfaces -- -j8 -l8

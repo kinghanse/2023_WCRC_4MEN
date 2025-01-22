@@ -1,0 +1,3 @@
+SUBSYSTEM=="input", GROUP="input", MODE="0660"
+KERNEL=="input[0-9]*", RUN+="/bin/chgrp input $env{DEVNAME}", RUN+="/bin/chmod g+rw $env{DEVNAME}"
+

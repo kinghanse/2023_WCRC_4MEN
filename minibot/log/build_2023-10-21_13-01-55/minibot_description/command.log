@@ -1,0 +1,4 @@
+Invoking command in '/home/hanse/pinkbot/build/minibot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /home/hanse/.local/bin/cmake --build /home/hanse/pinkbot/build/minibot_description -- -j8 -l8
+Invoked command in '/home/hanse/pinkbot/build/minibot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/hanse/.local/bin/cmake --build /home/hanse/pinkbot/build/minibot_description -- -j8 -l8
+Invoking command in '/home/hanse/pinkbot/build/minibot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /home/hanse/.local/bin/cmake --install /home/hanse/pinkbot/build/minibot_description
+Invoked command in '/home/hanse/pinkbot/build/minibot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/hanse/.local/bin/cmake --install /home/hanse/pinkbot/build/minibot_description

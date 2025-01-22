@@ -1,0 +1,9 @@
+/home/hanse/pinkbot/build/minibot_bringup/CMakeFiles/uninstall.dir
+/home/hanse/pinkbot/build/minibot_bringup/CMakeFiles/minibot_bringup_uninstall.dir
+/home/hanse/pinkbot/build/minibot_bringup/CMakeFiles/test.dir
+/home/hanse/pinkbot/build/minibot_bringup/CMakeFiles/edit_cache.dir
+/home/hanse/pinkbot/build/minibot_bringup/CMakeFiles/rebuild_cache.dir
+/home/hanse/pinkbot/build/minibot_bringup/CMakeFiles/list_install_components.dir
+/home/hanse/pinkbot/build/minibot_bringup/CMakeFiles/install.dir
+/home/hanse/pinkbot/build/minibot_bringup/CMakeFiles/install/local.dir
+/home/hanse/pinkbot/build/minibot_bringup/CMakeFiles/install/strip.dir

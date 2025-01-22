@@ -1,0 +1,7 @@
+{
+  "package_name": "minibot_interfaces",
+  "non_idl_tuples": [
+    "/home/hanse/pinkbot/src/pinklab_minibot_robot/minibot_interfaces:msg/LampCommand.msg",
+    "/home/hanse/pinkbot/src/pinklab_minibot_robot/minibot_interfaces:msg/RobotState.msg"
+  ]
+}

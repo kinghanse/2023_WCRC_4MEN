@@ -1,0 +1,30 @@
+[35m[1mConsolidate compiler generated dependencies of target minibot_controllers[0m
+[100%] Built target minibot_controllers
+-- Install configuration: ""
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/controller_plugins.xml
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/lib/libminibot_controllers.so
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/include
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/include/minibot_gpio_controller
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/include/minibot_gpio_controller/gpio_controller.hpp
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/controller_plugins.xml
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/library_path.sh
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/library_path.dsv
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/ament_index/resource_index/package_run_dependencies/minibot_controllers
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/ament_index/resource_index/parent_prefix_path/minibot_controllers
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/ament_prefix_path.sh
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/path.sh
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/environment/path.dsv
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/local_setup.bash
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/local_setup.sh
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/local_setup.zsh
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/local_setup.dsv
+-- Installing: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/package.dsv
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/ament_index/resource_index/packages/minibot_controllers
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/ament_index/resource_index/controller_interface__pluginlib__plugin/minibot_controllers
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/minibot_controllersConfig.cmake
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/cmake/minibot_controllersConfig-version.cmake
+-- Up-to-date: /home/hanse/pinkbot/install/minibot_controllers/share/minibot_controllers/package.xml

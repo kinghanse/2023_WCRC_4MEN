@@ -1,0 +1,38 @@
+[0.238s] Invoking command in '/home/hanse/pinkbot/build/minibot_gazebo': CMAKE_PREFIX_PATH=/home/hanse/pinkbot/install/minibot_description:/home/hanse/pinkbot/install/minibot_navigation2:/home/hanse/pinkbot/install/minibot_controllers:/home/hanse/pinkbot/install/minibot_interfaces:/home/hanse/pinkbot/install/minibot_hardware_interface:/home/hanse/pinkbot/install/minibot_bringup:/home/hanse/pinkbot/install/minibot_gazebo:/opt/ros/humble /home/hanse/.local/bin/cmake --build /home/hanse/pinkbot/build/minibot_gazebo -- -j8 -l8
+[0.306s] Invoked command in '/home/hanse/pinkbot/build/minibot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/hanse/pinkbot/install/minibot_description:/home/hanse/pinkbot/install/minibot_navigation2:/home/hanse/pinkbot/install/minibot_controllers:/home/hanse/pinkbot/install/minibot_interfaces:/home/hanse/pinkbot/install/minibot_hardware_interface:/home/hanse/pinkbot/install/minibot_bringup:/home/hanse/pinkbot/install/minibot_gazebo:/opt/ros/humble /home/hanse/.local/bin/cmake --build /home/hanse/pinkbot/build/minibot_gazebo -- -j8 -l8
+[0.397s] Invoking command in '/home/hanse/pinkbot/build/minibot_gazebo': CMAKE_PREFIX_PATH=/home/hanse/pinkbot/install/minibot_description:/home/hanse/pinkbot/install/minibot_navigation2:/home/hanse/pinkbot/install/minibot_controllers:/home/hanse/pinkbot/install/minibot_interfaces:/home/hanse/pinkbot/install/minibot_hardware_interface:/home/hanse/pinkbot/install/minibot_bringup:/home/hanse/pinkbot/install/minibot_gazebo:/opt/ros/humble /home/hanse/.local/bin/cmake --install /home/hanse/pinkbot/build/minibot_gazebo
+[0.423s] -- Install configuration: ""
+[0.423s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/launch
+[0.423s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/launch/bringup_gazebo.launch.py
+[0.423s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/worlds
+[0.423s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/worlds/turtlebot3_world.world
+[0.424s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/worlds/empty.world
+[0.424s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/worlds/simple_building.world
+[0.424s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models
+[0.424s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/turtlebot3_world
+[0.424s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/turtlebot3_world/model-1_4.sdf
+[0.424s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/turtlebot3_world/meshes
+[0.424s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/turtlebot3_world/meshes/hexagon.dae
+[0.424s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/turtlebot3_world/meshes/wall.dae
+[0.424s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/turtlebot3_world/model.config
+[0.425s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/turtlebot3_world/model.sdf
+[0.425s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/.empty
+[0.425s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/simple_building
+[0.425s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/simple_building/model.config
+[0.425s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/models/simple_building/model.sdf
+[0.425s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/ament_index/resource_index/package_run_dependencies/minibot_gazebo
+[0.425s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/ament_index/resource_index/parent_prefix_path/minibot_gazebo
+[0.426s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/environment/ament_prefix_path.sh
+[0.426s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/environment/ament_prefix_path.dsv
+[0.426s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/environment/path.sh
+[0.426s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/environment/path.dsv
+[0.426s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/local_setup.bash
+[0.426s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/local_setup.sh
+[0.426s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/local_setup.zsh
+[0.426s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/local_setup.dsv
+[0.427s] -- Installing: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/package.dsv
+[0.427s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/ament_index/resource_index/packages/minibot_gazebo
+[0.427s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/cmake/minibot_gazeboConfig.cmake
+[0.427s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/cmake/minibot_gazeboConfig-version.cmake
+[0.427s] -- Up-to-date: /home/hanse/pinkbot/install/minibot_gazebo/share/minibot_gazebo/package.xml
+[0.431s] Invoked command in '/home/hanse/pinkbot/build/minibot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/hanse/pinkbot/install/minibot_description:/home/hanse/pinkbot/install/minibot_navigation2:/home/hanse/pinkbot/install/minibot_controllers:/home/hanse/pinkbot/install/minibot_interfaces:/home/hanse/pinkbot/install/minibot_hardware_interface:/home/hanse/pinkbot/install/minibot_bringup:/home/hanse/pinkbot/install/minibot_gazebo:/opt/ros/humble /home/hanse/.local/bin/cmake --install /home/hanse/pinkbot/build/minibot_gazebo
